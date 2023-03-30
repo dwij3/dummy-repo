@@ -1,0 +1,13 @@
+body {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+.helloWorld {
+  background-color: yellow;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
